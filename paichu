@@ -1,1 +1,6 @@
-HOST-SUFFIX,appstorrent.ru,TikTok
+HOST-SUFFIX,swdist.apple.com,REJECT
+HOST-SUFFIX,swscan.apple.com,REJECT
+HOST-SUFFIX,swcdn.apple.com,REJECT
+HOST-SUFFIX,gdmf.apple.com,REJECT
+HOST-SUFFIX,mesu.apple.com,REJECT
+HOST-SUFFIX,xp.apple.com,REJECT
