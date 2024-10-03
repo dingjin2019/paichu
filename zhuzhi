@@ -1,7 +1,7 @@
-HOST,mesu.apple.com,REJECT
-HOST,gdmf.apple.com,REJECT
-HOST,updates.cdn-apple.com,REJECT
-HOST,swdist.apple.com,REJECT
-HOST,swscan.apple.com,REJECT
-HOST,swcdn.apple.com,REJECT
-HOST,xp.apple.com,REJECT
+HOST,mesu.apple.com
+HOST,gdmf.apple.com
+HOST,updates.cdn-apple.com
+HOST,swdist.apple.com
+HOST,swscan.apple.com
+HOST,swcdn.apple.com
+HOST,xp.apple.com
